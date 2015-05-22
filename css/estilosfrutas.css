@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#paginainicio
+{background:#9FC}
+#titulo
+{background:#936; color:#3CF}
+#texto
+{background:#FCC; text-align:justify;background:#CFC; color:#000; width:98%; margin:1%}
+#foto
+{background:#9F9; text-align:center; margin:1%}
+
+
+
+#Textofrutas
+{background:#FC6}
+#Menufrutas
+{background:#3C9; color:#CF9; text-align:center}
+#Frutas
+{background:#C9C; color:#6F9; text-align:center}
